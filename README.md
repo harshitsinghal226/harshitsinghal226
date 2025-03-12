@@ -32,7 +32,7 @@ Hello! I'm Harshit Singhal, a student at IIIT Sonepat with a passion for coding 
 
 - [LinkedIn](https://www.linkedin.com/in/harshit-singhal-132880277/)
 - [Twitter](https://x.com/Harshit_2206)
-- Email: (harshitsinghal226@gmail.com)
+- Email: harshitsinghal226@gmail.com
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting!
 
