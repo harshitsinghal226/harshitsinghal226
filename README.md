@@ -27,13 +27,11 @@ Here are some of my notable projects:
 
 - [Project 1](link): Brief description of what this project is about.
 - [Project 2](link): Brief description of what this project is about.
-- [Project 3](link): Brief description of what this project is about.
 
 ## Connect with Me
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website](your-website)
+- [LinkedIn](https://www.linkedin.com/in/harshit-singhal-132880277/)
+- [Twitter](https://x.com/Harshit_2206)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting!
 
