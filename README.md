@@ -7,7 +7,6 @@ Hello! I'm Harshit Singhal, a student at IIIT Sonepat with a passion for coding 
 - 🎓 **Education:** Studying at IIIT Sonepat
 - 🔭 I’m currently working on various interesting projects in web development.
 - 🌱 I’m always learning and currently diving deeper into DSA concepts.
-- 📫 How to reach me: harshitsinghal226@gmail.com.
 
 <!-- ## My GitHub Stats
 
@@ -29,10 +28,11 @@ Hello! I'm Harshit Singhal, a student at IIIT Sonepat with a passion for coding 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Connect with Me
+#### Contact 📬
 
 - [LinkedIn](https://www.linkedin.com/in/harshit-singhal-132880277/)
 - [Twitter](https://x.com/Harshit_2206)
+- [Email](harshitsinghal226@gmail.com)📧
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting!
 
