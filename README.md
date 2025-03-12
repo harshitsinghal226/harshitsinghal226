@@ -1,32 +1,33 @@
 # Hi there, I'm Harshit Singhal 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and constantly exploring new ways to solve problems through code.
+Hello! I'm Harshit Singhal, a student at IIIT Sonepat with a passion for coding and web development. I'm passionate about technology and constantly exploring new ways to solve problems through code.
 
 ## About Me
 
-- 🔭 I’m currently working on various interesting projects in software development.
-- 🌱 I’m always learning and currently diving deeper into [your current learning focus].
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 🤔 I’m looking for help with [any particular area you need help with].
-- 💬 Ask me about anything related to programming, technology, or any project you see here.
-- 📫 How to reach me: [Your Email or other contact information].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A fun fact about yourself].
+- 🎓 **Education:** Studying at IIIT Sonepat
+- 🔭 I’m currently working on various interesting projects in web development.
+- 🌱 I’m always learning and currently diving deeper into DSA concepts.
+- 📫 How to reach me: harshitsinghal226@gmail.com.
 
-## My GitHub Stats
+<!-- ## My GitHub Stats
 
-![Harshit Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsinghal226&show_icons=true&theme=radical)
+![Harshit Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsinghal226&show_icons=true&theme=radical) -->
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsinghal226&layout=compact&theme=radical)
 
-## Projects
+#### Skills 🧠
 
-Here are some of my notable projects:
-
-- [Project 1](link): Brief description of what this project is about.
-- [Project 2](link): Brief description of what this project is about.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Connect with Me
 
