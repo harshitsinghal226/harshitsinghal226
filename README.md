@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-## About Me
+**About Me**
 
 - 🎓 **Education:** Studying at IIIT Sonepat
 - 🌱 I’m always learning **React.Js , Node.Js** and diving deeper into **DSA concepts**.
@@ -13,11 +13,11 @@
 
 ![Harshit Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsinghal226&show_icons=true&theme=radical) -->
 
-## Top Languages
+**Top Languages**
     
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsinghal226&layout=compact&theme=radical)
 
-#### Skills 
+**Skills** 🧠
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
