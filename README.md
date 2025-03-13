@@ -13,10 +13,6 @@
 
 ![Harshit Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsinghal226&show_icons=true&theme=radical) -->
 
-**Top Languages**
-    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsinghal226&layout=compact&theme=radical)
-
 **Skills** 🧠
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -29,6 +25,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsinghal226&layout=compact&theme=radical)
 
 #### Contact 📬
 
