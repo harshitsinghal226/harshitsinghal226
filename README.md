@@ -43,6 +43,9 @@
 <!-- Uncomment if you want to show full stats as well
 ![Harshit Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsinghal226&show_icons=true&theme=radical)
 -->
+📈 Contribution Graph:  
+![Harshit Singhal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsinghal226&theme=react-dark&hide_border=true)
+
 
 ---
 
