@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=500&height=100&lines=I'm+Harshit+Singhal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=I'm+Harshit+Singhal;Ex-DRDO+Software+Intern;Full+Stack+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
